@@ -1,0 +1,23 @@
+[
+    {
+        "component": "tourism-guider",
+        "entities": [
+            {
+                "word": "Delhi",
+                "entityInfo": {
+                    "geo": {
+                        "lat": 28.6139,
+                        "long": 77.209
+                    }
+                },
+                "entityType": "LOCATION",
+                "description": "Delhi, India"
+            }
+        ],
+        "query": "museums in Delhi",
+        "componentEnabled": true,
+        "keyword": [
+            "museums"
+        ]
+    }
+]
