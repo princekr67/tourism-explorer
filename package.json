@@ -1,5 +1,5 @@
 {
-  "name": "tourism-guider",
+  "name": "@prince1994/tourism-guider",
   "version": "1.0.0",
   "source": "src/frontend/index.jsx",
   "main": "dist/index.umd.js",
